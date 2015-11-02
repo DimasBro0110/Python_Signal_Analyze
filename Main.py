@@ -23,4 +23,4 @@ if __name__ == "__main__":
         player.join()
 
 else:
-    print("Хуй нане")
+    print("Something went wrong")
